@@ -25,6 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanza-batool524&show_icons=true&locale=en" alt="shanza-batool524" /></p>
 
 <h3 align="left">🔥 GitHub Streaks:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanza-batool524&theme=dark&hide_border=true" alt="shanza-batool524" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shanza-batool524&theme=dark&hide_border=true)](https://git.io/streak-stats)
